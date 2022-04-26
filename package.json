@@ -1,0 +1,14 @@
+{
+  "name": "primer-entrega-final",
+  "version": "1.0.0",
+  "description": "Primer entrega del proyecto final de CoderHouse",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Maria Pia del Valle",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
